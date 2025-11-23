@@ -1,1 +1,5 @@
 *.xes
+venv 
+venv_sklearn
+*.csv
+.venv
